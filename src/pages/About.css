@@ -1,0 +1,36 @@
+.head2{
+    margin-bottom: 70px;
+    color: #4DB5FF;
+    font-family: 'Times New Roman';
+    margin-left: 3.5rem;
+    font-size: 2.5rem;
+    transform: translateY(-100px);
+}
+
+.parag2{
+    color: white;
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    margin-left: 3.5rem; 
+    width: 600px;
+    transform: translateY(-145px);
+}
+
+.head4{
+    color: #4DB5FF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    margin-left: 3.5rem;
+    transform: translateY(-700px);
+}
+
+.parag4{
+    color: white;
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    margin-left: 3.5rem; 
+    width: 600px;
+    transform: translateY(-715px);
+}

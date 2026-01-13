@@ -2,13 +2,14 @@ button{
     color: white;
     background-color: #1e1e1e;
     border: none;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 35px;
     cursor: pointer;
     margin-left: 3.5rem;
-    margin-top: 5px;
+    margin-top: 10px;
     font-family: monospace;
     width: 20%;
+    font-size: 1rem;
 }
 
 button:hover{

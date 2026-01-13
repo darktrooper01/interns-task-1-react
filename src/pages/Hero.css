@@ -1,21 +1,24 @@
 body{
     background-color: #0a0a0a;
+    width: 100%;
+  overflow-x: hidden;
 }
 
-h3{
+.head{
     color: #4DB5FF;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-left: 3.5rem;
-    margin-top: 170px;
+    margin-top: 140px;
     letter-spacing: 5px;
 }
 
-p{
-    color: white;
+.txt1 {
+    color: #FFF9F3;
+    opacity: 0.6;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.1rem;
-    margin-left: 3.5rem;
-    margin-top: 20px;
+    margin-left: 3.5rem; 
     width: 600px;
+    transform: translateY(-24px);
 }

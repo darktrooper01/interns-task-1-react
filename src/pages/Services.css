@@ -1,0 +1,26 @@
+
+.head5{
+    color: #4DB5FF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    margin-left: 3.5rem;
+    transform: translateY(-370px);
+}
+
+
+
+
+.cardmain{
+    color: white;
+    background-color: #1e1e1e;
+    display: flex;  
+    align-items: center;
+    gap: 50px;
+    border-radius: 50px;
+}
+
+.cardtitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    margin-left: 50px;
+}
