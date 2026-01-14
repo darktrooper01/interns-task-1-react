@@ -1,26 +1,43 @@
-
-.head5{
-    color: #4DB5FF;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 2.5rem;
-    margin-left: 3.5rem;
-    transform: translateY(-370px);
+.services {
+  padding: 80px 40px;
 }
 
+.services-title {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #4DB5FF;
+  transform: translateY(-550px);
+}
 
-
-
-.cardmain{
+.service-txt{
     color: white;
-    background-color: #1e1e1e;
-    display: flex;  
-    align-items: center;
-    gap: 50px;
-    border-radius: 50px;
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    transform: translateY(-570px);
 }
 
-.cardtitle{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 2rem;
-    margin-left: 50px;
+.services-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  transform: translateY(-500px);
+}
+
+.service-card {
+  background: #1e1e1e;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.service-card h3 {
+  color: #4DB5FF;
+  margin-bottom: 14px;
+  font-size: 20px;
+}
+
+.service-card p {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 15px;
+  line-height: 1.6;
 }
